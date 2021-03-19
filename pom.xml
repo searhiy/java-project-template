@@ -16,7 +16,7 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <!-- http://tomcat.apache.org/whichversion.html -->
-        <tomcat.version>9.0.35</tomcat.version>
+        <tomcat.version>10.0.4</tomcat.version>
         <log4j.location>log4j2.xml</log4j.location>
     </properties>
 
